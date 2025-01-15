@@ -3,8 +3,7 @@
 - [MAX kline API](https://github.com/angelo-chu/python/blob/main/MAX_kline_API.ipynb): pull BTC/USDT kline data from MAX Exchange's RESTful v2 API.
 
 # Probabilities
-## Bayes' Theorem - used for the likelihood of an effect given an action/treatment performed
-
-- P(A | B) = P(B|A)*P(A) / P(B)
-1. P(A) = a phenomenon 
-2. P(B|A) = some action given a phenomenon occurs
+- Bayes' Theorem - used for the likelihood of an effect given an action/treatment performed
+1. P(A | B) = P(B|A)*P(A) / P(B)
+2. P(A) = a phenomenon 
+3. P(B|A) = some action given a phenomenon occurs
