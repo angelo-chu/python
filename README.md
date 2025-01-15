@@ -4,9 +4,8 @@
 
 # Decision Science
 #### Probabilities
-###Bayes' Theorem - used for the likelihood of an effect given an action/treatment performed
+### Bayes' Theorem - used for the likelihood of an effect given an action/treatment performed
 
-P(A | B) = P(B|A)*P(A) / P(B)
-
-P(A) = a phenomenon 
-P(B|A) = some action given a phenomenon occurs
+- P(A | B) = P(B|A)*P(A) / P(B)
+1. P(A) = a phenomenon 
+2. P(B|A) = some action given a phenomenon occurs
