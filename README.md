@@ -7,5 +7,6 @@
 ##Bayes' Theorem
 
 P(A | B) = P(B|A)*P(A) / P(B)
+
 P(A) = a phenomenon 
 P(B|A) = some action given a phenomenon occurs
