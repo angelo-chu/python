@@ -4,7 +4,7 @@
 
 # Decision Science
 #### Probabilities
-##Bayes' Theorem
+###Bayes' Theorem - used for the likelihood of an effect given an action/treatment performed
 
 P(A | B) = P(B|A)*P(A) / P(B)
 
